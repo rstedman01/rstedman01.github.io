@@ -1,4 +1,8 @@
 site_name: Open Source Chemistry Notes
+
+nav:
+  - Home: index.md
+
 theme:
   name: material
   features:
